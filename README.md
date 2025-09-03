@@ -128,7 +128,7 @@ This project implements a feature-rich calculator application in C++ that mirror
 
 ## Installation and Setup
 1. Clone the repository:
-git clone https://github.com/AnujSinghPanwar7/cpp-calculator.git
+git clone https://github.com/AnujSinghPanwar7/project1.git
 
 text
 2. Open the project in Qt Creator (recommended) or your preferred IDE.
@@ -201,7 +201,7 @@ Installation and Setup
 Clone the repository:
 
 bash
-git clone https://github.com/AnujSinghPanwar7/cpp-calculator.git
+git clone https://github.com/AnujSinghPanwar7/project1.git
 Open the project in Qt Creator (recommended) or your preferred IDE.
 
 Build and run the project.
